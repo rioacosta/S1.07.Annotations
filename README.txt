@@ -28,7 +28,7 @@ IDE eclipse o intellj GitHub
 
 🛠️ Instalación
 
-Clona este repositorio: -> git clone Accede al directorio del proyecto Instala las dependencias: npm install …
+Clona este repositorio: -> git clone 
 
 ▶️ Ejecución
 
