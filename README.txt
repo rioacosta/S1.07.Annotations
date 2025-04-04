@@ -32,7 +32,7 @@ Clona este repositorio: -> git clone
 
 ▶️ Ejecución
 
-Configura la base de datos a config/*database.js. Ejecuta el servidor: npm start
+
 
 🌐 Despliegue
 
